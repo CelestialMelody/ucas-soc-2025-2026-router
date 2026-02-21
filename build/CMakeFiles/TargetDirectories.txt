@@ -1,0 +1,3 @@
+/home/zoomin/codes/soc/router/build/CMakeFiles/router.dir
+/home/zoomin/codes/soc/router/build/CMakeFiles/edit_cache.dir
+/home/zoomin/codes/soc/router/build/CMakeFiles/rebuild_cache.dir

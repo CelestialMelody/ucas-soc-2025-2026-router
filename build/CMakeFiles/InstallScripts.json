@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/zoomin/codes/soc/router/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

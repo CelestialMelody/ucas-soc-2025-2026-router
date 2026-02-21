@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -Wl,--dependency-file=CMakeFiles/router.dir/link.d CMakeFiles/router.dir/src/main.cpp.o CMakeFiles/router.dir/src/include/impl/pathfinder.cpp.o CMakeFiles/router.dir/src/include/impl/parser.cpp.o CMakeFiles/router.dir/src/include/impl/output.cpp.o -o router
